@@ -15,6 +15,7 @@ A simple and fun Flutter tic-tac-toe app with two modes: play with a friend or c
   <img src="screenshots/1.jpg" width="250"/>
   <img src="screenshots/2.jpg" width="250"/>
 </div>
+
 ## 📚 Credits
 
 Built while following the excellent course:  
